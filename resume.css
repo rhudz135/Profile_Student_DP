@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background-color: rgb(254, 255, 253);
+    background-color: rgb(114, 187, 41);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,20 +13,20 @@ body {
     width: 50%;
     max-width: 1000px;
     min-height: 100px;
-    background-color: rgb(231, 237, 245);
+    background-color: rgb(10, 55, 73);
     margin: 0px;
     display: grid;
     grid-template-columns: 2fr 4fr;
 }
 .left {
     position: initial;
-    background-color: rgb(187, 34, 204);
+    background-color: rgb(161, 168, 153);
     padding: 20px;
  
 }
 .right {
     position: initial;
-    background-color: rgb(206, 190, 162);
+    background-color: rgb(162, 202, 206);
     padding: 20px;
  
 }
@@ -35,5 +35,5 @@ body {
     margin-bottom: 30px;
 }
 .h2 {
-    background-color: rgb(4, 96, 150);
+    background-color: rgba(236, 12, 218, 0.123);
 }
