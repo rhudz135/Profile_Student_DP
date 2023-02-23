@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background-color: rgb(253, 254, 255);
+    background-color: rgb(114, 187, 41);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,14 +13,14 @@ body {
     width: 50%;
     max-width: 1000px;
     min-height: 100px;
-    background-color: rgb(245, 239, 231);
+    background-color: rgb(10, 55, 73);
     margin: 0px;
     display: grid;
     grid-template-columns: 2fr 4fr;
 }
 .left {
     position: initial;
-    background-color: rgb(126, 219, 231);
+    background-color: rgb(161, 168, 153);
     padding: 20px;
  
 }
@@ -35,5 +35,5 @@ body {
     margin-bottom: 30px;
 }
 .h2 {
-    background-color: rgb(4, 96, 150);
+    background-color: rgba(236, 12, 218, 0.123);
 }
