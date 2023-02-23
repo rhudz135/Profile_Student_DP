@@ -1,1 +1,1 @@
-# Customize me
+# Resume HTML activity for GIT
