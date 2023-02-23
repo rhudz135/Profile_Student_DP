@@ -1,1 +1,1 @@
-# Resume HTML activity for GIT
+# Resume HTML activity for GITche
